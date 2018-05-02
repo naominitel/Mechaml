@@ -1,0 +1,9 @@
+[package]
+name = "Mechaml"
+version = "0.1.0"
+authors = ["Naomi Nitel <naominitel@gmail.com>"]
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]

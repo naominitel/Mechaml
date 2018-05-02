@@ -1,0 +1,7 @@
+*.cmi
+*.cmo
+*.a
+/test
+/target
+**/*.rs.bk
+Cargo.lock
