@@ -1,0 +1,14 @@
+[package]
+name = "mechaml-derive"
+version = "0.1.0"
+authors = ["Naomi Nitel <naominitel@gmail.com>"]
+
+[lib]
+name = "mechaml_derive"
+path = "lib.rs"
+proc-macro = true
+
+[dependencies]
+quote = "*"
+proc-macro = "*"
+
